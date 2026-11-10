@@ -1,0 +1,9 @@
+.fwg-product-aplus-content {
+	clear: both;
+	width: 100%;
+	margin-block: 2.5rem;
+}
+
+.fwg-product-aplus-content:empty {
+	display: none;
+}
